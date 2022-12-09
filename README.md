@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
 **ARASHz4/ARASHz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 ### I'm Arash
 
@@ -9,7 +8,7 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,swif,ios,android,qt,go,dart,java,androidstudio,python,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,swif,ios,android,qt,cpp,go,dart,java,xcode,androidstudio,git,github)](https://skillicons.dev)
 
 
 Here are some ideas to get you started:
