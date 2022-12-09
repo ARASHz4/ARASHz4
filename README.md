@@ -8,7 +8,7 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,swift,qt,cpp,dart,kotlin,,androidstudio,vscode,go,git,github,wordpress,sqlite,firebase,gradle,mysql,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,swift,qt,cpp,dart,kotlin,androidstudio,vscode,go,git,github,wordpress,sqlite,firebase,gradle,mysql,stackoverflow)](https://skillicons.dev)
 
 
 Here are some ideas to get you started:
