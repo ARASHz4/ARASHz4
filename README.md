@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go
 - 💬 Ask me about Swift & Flutter
 - 📫 How to reach me: arash.z4@icloud.com
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://raw.githubusercontent.com/ARASHz4/ARASHz4/main/contributions.svg" />
+</p>
