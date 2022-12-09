@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Swift & Flutter
 - 📫 How to reach me: arash.z4@icloud.com
 
-<p align="center"> 
-  Visitor count<br>
+<p align="center">
   <img src="https://raw.githubusercontent.com/ARASHz4/ARASHz4/main/contributions.svg" />
 </p>
