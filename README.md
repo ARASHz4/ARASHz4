@@ -8,7 +8,7 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,swif,ios,android,qt,cpp,go,dart,java,xcode,androidstudio,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,swift,qt,cpp,go,dart,kotllin,xcode,androidstudio,git,github,wordpress,instagram)](https://skillicons.dev)
 
 
 Here are some ideas to get you started:
