@@ -1,4 +1,4 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/70e296ec-9f12-4114-8886-90241933632f" /><!--
+<!--
 **ARASHz4/ARASHz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
