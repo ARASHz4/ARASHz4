@@ -1,14 +1,20 @@
-<!--
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/70e296ec-9f12-4114-8886-90241933632f" /><!--
 **ARASHz4/ARASHz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### I'm Arash
+# Hi, I'm Arash👋
 
-### I'm a Android & iOS Developer
+🧠 **Mobile Developer** | 📱 **iOS & Android**
 
-# Skills
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,swift,qt,cpp,dart,kotlin,androidstudio,vscode,go,linux,git,github,wordpress,sqlite,firebase,gradle,mysql,stackoverflow)](https://github.com/ARASHz4)
+
+## 🚀 About Me
+
+I’m **Arash Zare**, a **software engineer** focused on Mobile Aplications  
+**clean, scalable, robust**.
+
+For **8+ years**, I’ve developed **50+ applications** across multiple industries
 
 
 Here are some ideas to get you started:
